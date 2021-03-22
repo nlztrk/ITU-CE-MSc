@@ -5,3 +5,4 @@
 - BLG527E (Machine Learning)
 - BLG521E (Artificial Intelligence)
 - BLG604E (Deep Reinforcement Learning)
+- BLG549E (Graph Theory)
