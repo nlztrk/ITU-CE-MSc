@@ -1,13 +1,13 @@
 # Building and Running GANs, SR-GANs and VAEs on Icons
 
 ## GANs
-![fig1](gan-summary.png)
+![fig1](./img/gan-summary.png)
 
 ## SRGANs
-![fig1](srgan-summary.png)
+![fig1](./img/srgan-summary.png)
 
 ## VAEs
-![fig1](vae-summary.png)
+![fig1](./img/vae-summary.png)
 
 This repository provides these from-scratch implementations:
 
